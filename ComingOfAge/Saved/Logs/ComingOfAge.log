@@ -826,3 +826,301 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.03-19.07.30:008][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
 [2019.12.03-19.07.30:134][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2019.12.03-19.07.35:229][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.10.13:335][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2019.12.03-19.10.16:245][907]Cmd: DELETE
+[2019.12.03-19.10.16:245][907]Cmd: ACTOR DELETE
+[2019.12.03-19.10.16:270][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.03-19.10.16:300][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.12.03-19.10.16:301][907]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2019.12.03-19.10.18:928][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2019.12.03-19.10.20:773][173]Cmd: DELETE
+[2019.12.03-19.10.20:773][173]Cmd: ACTOR DELETE
+[2019.12.03-19.10.20:774][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.03-19.10.20:799][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.12.03-19.10.20:799][173]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.12.03-19.10.21:807][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2019.12.03-19.10.22:647][282]Cmd: DELETE
+[2019.12.03-19.10.22:647][282]Cmd: ACTOR DELETE
+[2019.12.03-19.10.22:648][282]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.03-19.10.22:674][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.12.03-19.10.22:674][282]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.12.03-19.10.23:715][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2019.12.03-19.10.24:724][403]Cmd: DELETE
+[2019.12.03-19.10.24:724][403]Cmd: ACTOR DELETE
+[2019.12.03-19.10.24:724][403]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.03-19.10.24:750][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.12.03-19.10.24:750][403]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.12.03-19.10.31:209][791]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.12.03-19.10.33:438][922]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.12.03-19.10.35:605][ 49]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.12.03-19.10.39:573][285]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture10)
+[2019.12.03-19.10.43:052][492]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Starter_Background_Cue)
+[2019.12.03-19.10.45:505][636]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.12.03-19.10.50:937][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.03-19.10.54:595][176]Cmd: DELETE
+[2019.12.03-19.10.54:595][176]Cmd: ACTOR DELETE
+[2019.12.03-19.10.54:596][176]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.03-19.10.54:621][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.12.03-19.10.54:621][176]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.12.03-19.10.55:562][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.03-19.10.57:034][319]Cmd: DELETE
+[2019.12.03-19.10.57:035][319]Cmd: ACTOR DELETE
+[2019.12.03-19.10.57:035][319]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.03-19.10.57:060][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.12.03-19.10.57:062][319]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.12.03-19.11.09:288][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.11.30:990][344]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.03-19.11.31:876][395]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.03-19.11.32:444][428]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.03-19.11.33:360][482]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.03-19.11.41:713][881]Cmd: DELETE
+[2019.12.03-19.11.41:713][881]Cmd: ACTOR DELETE
+[2019.12.03-19.11.41:714][881]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.12.03-19.11.41:740][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.12.03-19.11.41:741][881]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.12.03-19.11.43:497][987]Cmd: TRANSACTION UNDO
+[2019.12.03-19.11.43:497][987]LogEditorTransaction: Undo Delete Actors
+[2019.12.03-19.11.43:521][987]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.03-19.11.44:132][ 23]Cmd: TRANSACTION UNDO
+[2019.12.03-19.11.44:132][ 23]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.03-19.11.44:665][ 52]Cmd: TRANSACTION UNDO
+[2019.12.03-19.11.44:665][ 52]LogEditorTransaction: Undo Create Actors
+[2019.12.03-19.12.08:962][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.12.09:257][526]LogActorFactory: Actor Factory created Plane
+[2019.12.03-19.12.10:151][579]LogActorFactory: Actor Factory created Plane
+[2019.12.03-19.12.11:858][679]Cmd: DELETE
+[2019.12.03-19.12.11:858][679]Cmd: ACTOR DELETE
+[2019.12.03-19.12.11:859][679]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.03-19.12.11:885][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.12.03-19.12.11:885][679]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.12.03-19.12.13:343][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.14.20:469][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.14.25:374][771]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.03-19.14.44:272][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.15.05:423][219]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-19.15.06:222][266]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.03-19.15.14:322][749]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.03-19.15.14:354][749]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-19.15.15:384][811]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.03-19.15.23:129][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.15.26:063][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.15.29:849][675]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.03-19.15.29:879][675]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-19.15.30:547][715]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.03-19.16.36:517][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.16.59:765][603]Cmd: TRANSACTION UNDO
+[2019.12.03-19.16.59:765][603]LogEditorTransaction: Undo Scale Actors
+[2019.12.03-19.17.01:502][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.17.30:485][ 94]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F76D31E3-4798-EEB2-08E8-84838E4D820F}
+[2019.12.03-19.17.37:446][159]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.12.03-19.17.38:794][238]Cmd: DELETE
+[2019.12.03-19.17.38:794][238]Cmd: ACTOR DELETE
+[2019.12.03-19.17.38:796][238]LogEditorActor: Deleted Actor: SkyLight
+[2019.12.03-19.17.38:821][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.12.03-19.17.38:821][238]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.12.03-19.17.39:930][305]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.12.03-19.17.40:930][363]Cmd: DELETE
+[2019.12.03-19.17.40:930][363]Cmd: ACTOR DELETE
+[2019.12.03-19.17.40:931][363]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.12.03-19.17.40:955][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.12.03-19.17.40:955][363]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.12.03-19.17.41:981][425]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture10)
+[2019.12.03-19.17.42:660][464]Cmd: DELETE
+[2019.12.03-19.17.42:660][464]Cmd: ACTOR DELETE
+[2019.12.03-19.17.42:662][464]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.12.03-19.17.42:686][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.12.03-19.17.42:687][464]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.12.03-19.17.43:895][537]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.12.03-19.17.44:541][574]Cmd: DELETE
+[2019.12.03-19.17.44:541][574]Cmd: ACTOR DELETE
+[2019.12.03-19.17.44:542][574]LogEditorActor: Deleted Actor: PlayerStart
+[2019.12.03-19.17.44:567][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.12.03-19.17.44:567][574]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.12.03-19.17.45:675][641]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.12.03-19.17.46:262][674]Cmd: DELETE
+[2019.12.03-19.17.46:262][674]Cmd: ACTOR DELETE
+[2019.12.03-19.17.46:263][674]LogEditorActor: Actor Light Source is referenced by BP_Sky_Sphere.
+[2019.12.03-19.17.46:270][674]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-19.17.51:178][674]LogSlate: Window 'Message' being destroyed
+[2019.12.03-19.17.51:184][674]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.12.03-19.17.51:209][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.12.03-19.17.51:210][674]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.12.03-19.17.52:216][735]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2019.12.03-19.17.53:005][780]Cmd: DELETE
+[2019.12.03-19.17.53:005][780]Cmd: ACTOR DELETE
+[2019.12.03-19.17.53:006][780]LogEditorActor: Deleted Actor: AtmosphericFog
+[2019.12.03-19.17.53:031][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.12.03-19.17.53:031][780]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.12.03-19.17.54:141][847]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Starter_Background_Cue)
+[2019.12.03-19.17.54:812][885]Cmd: DELETE
+[2019.12.03-19.17.54:812][885]Cmd: ACTOR DELETE
+[2019.12.03-19.17.54:813][885]LogEditorActor: Deleted Actor: AmbientSound
+[2019.12.03-19.17.54:838][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.03-19.17.54:839][885]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.12.03-19.17.56:663][993]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.03-19.18.05:196][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.18.42:800][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.03-19.18.42:801][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-19.18.42:806][384]PIE: New page: SIE session: Minimal_Default (Dec 3, 2019, 7:18:42 AM)
+[2019.12.03-19.18.42:807][384]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.03-19.18.42:810][384]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.03-19.18.42:815][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004416s)
+[2019.12.03-19.18.42:816][384]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.03-19.18.42:816][384]LogPlayLevel: PIE: World Init took: (0.001684s)
+[2019.12.03-19.18.42:817][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006411s)
+[2019.12.03-19.18.42:841][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.12.03-19.18.42:852][384]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-19.18.42:888][384]LogInit: FAudioDevice initialized.
+[2019.12.03-19.18.42:890][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.18.42:901][384]LogLoad: Game class is 'GameModeBase'
+[2019.12.03-19.18.42:910][384]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.12.03-13.18.42
+[2019.12.03-19.18.42:911][384]LogWorld: Bringing up level for play took: 0.001314
+[2019.12.03-19.18.42:911][384]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.03-19.18.42:915][384]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.03-19.18.42:936][384]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.03-19.18.42:939][384]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.117
+[2019.12.03-19.18.42:954][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.03-19.18.45:582][533]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.03-19.18.57:116][196]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:133][197]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:149][198]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:166][199]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:182][200]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:199][201]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:216][202]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:233][203]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:250][204]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:266][205]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:283][206]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:316][208]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:333][209]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:350][210]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:366][211]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:382][212]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:832][239]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:849][240]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:866][241]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:882][242]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:900][243]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:916][244]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:933][245]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:949][246]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:966][247]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.57:983][248]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:000][249]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:417][274]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:433][275]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:450][276]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:467][277]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:483][278]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:500][279]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:516][280]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:534][281]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:549][282]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:582][284]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:599][285]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:866][301]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:884][302]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:900][303]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:917][304]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:932][305]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:949][306]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:966][307]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.58:982][308]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:233][323]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:267][325]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:284][326]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:333][329]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:366][331]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:400][333]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:433][335]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:450][336]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:500][339]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:517][340]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:599][345]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:616][346]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:633][347]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:650][348]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:666][349]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:700][351]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:733][353]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:834][359]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:884][362]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:933][365]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.18.59:950][366]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.19.00:016][370]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.19.00:100][375]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.BP_Sky_Sphere_C_2 : Base has to be 'Movable' if you'd like to move. 
+[2019.12.03-19.19.20:274][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.21.56:250][408]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.03-19.21.57:929][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.21.59:085][566]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.03-19.22.01:389][702]Cmd: DELETE
+[2019.12.03-19.22.01:389][702]Cmd: ACTOR DELETE
+[2019.12.03-19.22.01:392][702]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.12.03-19.22.01:418][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.12.03-19.22.01:418][702]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.12.03-19.22.04:925][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.22.11:209][286]LogEditorViewport: Clicking Background
+[2019.12.03-19.22.16:533][604]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-19.22.19:726][795]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-19.22.23:149][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-19.22.24:526][ 83]LogEditorViewport: Clicking Background
+[2019.12.03-19.22.26:271][187]LogEditorViewport: Clicking Background
+[2019.12.03-19.22.26:605][205]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-19.27.55:206][840]LogEditor: Attempting to add actor of class 'AnimationThumbnailSkeletalMeshActor' to level at 260.00,-620.00,70.00
+[2019.12.03-19.27.56:320][904]LogEditor: Attempting to add actor of class 'AnimationThumbnailSkeletalMeshActor' to level at 260.00,-620.00,70.00
+[2019.12.03-19.28.06:247][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.28.06:311][431]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.03-19.28.06:313][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-19.28.06:314][431]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.03-19.28.06:321][431]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-19.28.06:335][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-19.28.06:336][431]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.03-19.28.06:445][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-19.28.06:454][431]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2019.12.03-19.28.06:460][431]LogActorComponent: ReregisterComponent: (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Starter_Background_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2019.12.03-19.28.06:629][432]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.03-19.28.08:182][518]LogSlate: Window 'Message Log' being destroyed
+[2019.12.03-19.28.08:196][518]LogSlate: Window 'Message Log' being destroyed
+[2019.12.03-19.28.09:943][621]LogEditor: Attempting to add actor of class 'AnimationThumbnailSkeletalMeshActor' to level at 360.00,-450.00,480.00
+[2019.12.03-19.28.10:219][635]LogEditor: Attempting to add actor of class 'AnimationThumbnailSkeletalMeshActor' to level at 130.00,-300.00,320.00
+[2019.12.03-19.28.48:673][866]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-19.28.48:805][866]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.03-19.28.49:072][866]LogSavePackage: Moving '../../../../../../Users/Neil/Documents/GitHub/Coming-of-Age-VR/ComingOfAge/Saved/Minimal_Default_Auto15CE9B2AA45404ADF787A9A87FBB17301.tmp' to '../../../../../../Users/Neil/Documents/GitHub/Coming-of-Age-VR/ComingOfAge/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2019.12.03-19.28.49:087][866]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.338
+[2019.12.03-19.28.49:087][866]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.338
+[2019.12.03-19.29.46:913][611]LogSlate: Took 0.010270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.03-19.29.53:266][992]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.03-19.30.24:591][606]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-19.30.31:643][  5]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.12.03-19.31.01:930][810]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.12.03-19.31.20:733][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.32.18:550][362]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-19.32.24:712][637]LogSlate: Window 'New Level' being destroyed
+[2019.12.03-19.32.28:303][637]LogSlate: Window 'Save Content' being destroyed
+[2019.12.03-19.32.28:311][637]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.03-19.32.28:346][637]LightingResults: New page: Lighting Build
+[2019.12.03-19.32.28:349][637]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.12.03-19.32.28:349][637]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-19.32.28:350][637]MapCheck: New page: Map Check
+[2019.12.03-19.32.28:350][637]LightingResults: New page: Lighting Build
+[2019.12.03-19.32.28:377][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.12.03-19.32.28:402][637]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.03-19.32.28:414][637]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.03-19.32.28:440][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.12.03-19.32.28:447][637]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.03-19.32.28:447][637]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.318ms to complete.
+[2019.12.03-19.32.28:447][637]LogFileHelpers: Loading map 'Template_Default' took 0.138
+[2019.12.03-19.32.33:847][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.03-19.32.34:956][ 20]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.03-19.32.37:519][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.03-19.32.39:357][280]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.03-19.32.46:060][440]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-19.32.53:546][535]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.03-19.32.53:618][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.12.03-19.32.53:620][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map1" FILE="../../../../../../Users/Neil/Documents/GitHub/Coming-of-Age-VR/ComingOfAge/Content/map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-19.32.53:649][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.12.03-19.32.53:764][535]LogSavePackage: Moving '../../../../../../Users/Neil/Documents/GitHub/Coming-of-Age-VR/ComingOfAge/Saved/map1EDB1221347E61A2509AD8A800C8593B4.tmp' to '../../../../../../Users/Neil/Documents/GitHub/Coming-of-Age-VR/ComingOfAge/Content/map1.umap'
+[2019.12.03-19.32.53:794][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map1_BuiltData" FILE="../../../../../../Users/Neil/Documents/GitHub/Coming-of-Age-VR/ComingOfAge/Content/map1_BuiltData.uasset" SILENT=true
+[2019.12.03-19.32.53:812][535]LogSavePackage: Moving '../../../../../../Users/Neil/Documents/GitHub/Coming-of-Age-VR/ComingOfAge/Saved/map1_BuiltDataA261C60942BA5B46198285AEC5B2E464.tmp' to '../../../../../../Users/Neil/Documents/GitHub/Coming-of-Age-VR/ComingOfAge/Content/map1_BuiltData.uasset'
+[2019.12.03-19.32.53:821][535]LogFileHelpers: Saving map 'map1' took 0.265
